@@ -20,6 +20,15 @@ img {
     text-align: center;
     padding: 30px;
 }
+.profile {
+    text-align: center;
+    padding: 30px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .links {
     text-align: center;
     margin-top: 20px;
